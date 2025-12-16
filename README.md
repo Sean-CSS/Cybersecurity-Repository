@@ -19,3 +19,9 @@ Overall, the CTF experience motivated me to continue developing my technical ski
 - Strengthened my understanding of red team concepts, tools, and methodologies  
 - Improved my ability to analyze unfamiliar challenges and identify effective solution paths  
 - Developed greater confidence in applying learned concepts in practical scenarios 
+
+
+## CTF Scouting Report Links
+
+- [NCL Fall 2025 Individual Scouting Report](scouting-reports/NCL_Fall_2025_Individual_Scouting_Report.pdf)
+- [NCL Fall 2025 Team Scouting Report](scouting-reports/NCL_Fall_2025_Team_Scouting_Report.pdf)
